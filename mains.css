@@ -3,4 +3,9 @@
   .dropdown-item:hover {
     background-color: rgb(247, 97, 97);
   }
+
+  .card{
+    display: inline-block;
+    
+  }
   /*-------------------------------------------------------------------*/
