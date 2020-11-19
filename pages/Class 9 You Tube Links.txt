@@ -41,3 +41,51 @@ https://youtu.be/ZbI6cLmeWQ0
 
 Class 9th ICSE | Objects in JAVA | Chapter 3 | Part 1
 https://youtu.be/0_CNSntThDI
+
+Class 9th ICSE | Class as object factory in JAVA | Chapter 3 | Part 2
+https://youtu.be/ZIsCZVy0Ro4
+
+Class 9th ICSE | Coding Example for Class And Objects in JAVA | Chapter 3 | Part 3
+https://youtu.be/vrY93s_z1nw
+
+Class 9th ICSE | Class as a User-Defined Data Type | Message Passing in JAVA | Chapter 3 | Part 4
+https://youtu.be/6MhoSxiSvSQ
+
+=============================================================================================================
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+=============================================================================================================
+
+Class 9th ICSE | Comparing English Language with Java | Chapter 4 | Part 1
+https://youtu.be/bl0jdk-9GK4
+
+Class 9th ICSE | Character sets - ASCII & UNICODE in JAVA | Chapter 4 | Part 2
+https://youtu.be/isYT5RvjM6M
+
+Class 9th ICSE | Java Tokens(Keywords and Identifiers) in JAVA | Chapter 4 | Part 3
+https://youtu.be/BvJIje-OnP8
+
+Class 9th ICSE | Introduction to Literals, Numeric Literals in JAVA | Chapter 4 | Part 4
+https://youtu.be/YfzdzlP5Sb0
+
+Class 9th ICSE | Java Tokens(Character, String, Boolean. Null Literals) in JAVA | Chapter 4 | Part 5
+https://youtu.be/K7sz4Ur7ntE
+
+Class 9th ICSE | Tokens(Punctuators, Operators, Escape Sequence) in JAVA | Chapter 4 | Part 6
+https://youtu.be/1xAWDYvA-BY
+
+Class 9th ICSE | Data Types in JAVA | Chapter 4 | Part 7.1
+https://youtu.be/dXzuYrN_Nyc
+
+Class 9th ICSE | Variable Initialization, Default Values, Comments in JAVA | Chapter 4 | Part 7.2
+https://youtu.be/TTzJoZyye1s
+
+=============================================================================================================
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+=============================================================================================================
+
+Class 9th ICSE | Introduction to Operators in JAVA | Chapter 5 | Part 1
+https://youtu.be/EopGo83iL5c
+
+Class 9th ICSE | Increment and Decrement Operators in JAVA | Chapter 5 | Part 2
+https://youtu.be/QZqz0oaX0k0
+
