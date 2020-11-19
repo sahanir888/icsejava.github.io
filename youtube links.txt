@@ -1,0 +1,111 @@
+Class 10th ICSE | Objects in JAVA | Chapter 1 | Part 1
+https://youtu.be/_JlVvlk83pQ
+
+Class 10th ICSE | class in JAVA | Chapter 1 | Part 2
+https://youtu.be/tFV8vRXnX9U
+
+Class 10th ICSE | Coding example for classes and objects in JAVA | Chapter 1 | Part 3
+https://youtu.be/IqsCjB4irgY
+
+Class 10th ICSE | Principles of OOP-Abstraction and Encapsulation in JAVA | Chapter 1 | Part 4.1
+https://youtu.be/_eCRapGN-7k
+
+Class 10th ICSE | Principles of OOP- inheritance and polymorphism in JAVA | Chapter 1 | Part 4.2
+https://youtu.be/A9HwsGc9aAM
+
+Class 10th ICSE | Class as a user defined data type, Message Passing in JAVA | Chapter 1 | Part 5
+https://youtu.be/cm8P9AEvemc
+
+==============================================================================================================
+
+Class 10th ICSE | Evolution Of Java | Types Of Java Programs in JAVA | Chapter 2 | Part 1
+https://youtu.be/_TDXdITCuvk
+
+Class 10th ICSE | Machine Language|High Level Language | Compiler | Interpreter | Chapter 2 | Part 2
+https://youtu.be/H4vg9aGo2iY
+
+Class 10th ICSE |Java is platform independent | Java Compilation Process | Chapter 2 | Part 3
+https://youtu.be/bLQr3VDIspQ
+
+Class 10th ICSE | Features of java in JAVA | Chapter 2 | Part 4
+https://youtu.be/sQnzYeSUtv8
+
+Class 10th ICSE | How to use bluej in JAVA | Chapter 2 | Part 5
+https://youtu.be/ZbI6cLmeWQ0
+
+==============================================================================================================
+
+Class 10th ICSE | Comparing English Language With Programming Language in JAVA | Chapter 3 | Part 1
+https://youtu.be/WyOFek3IwM8
+
+Class 10th ICSE | Character sets - ASCII & UNICODE in JAVA | Chapter 3 | Part 2
+https://youtu.be/PdkwcUSaZZA
+
+Class 10th ICSE | Java Tokens ( Keywords & Identifies) in JAVA | Chapter 3 | Part 3
+https://youtu.be/VQg9RJXD0tw
+
+Class 10th ICSE | Introduction to Literals, Numeric Literals in JAVA | Chapter 3 | Part 4
+https://youtu.be/mxCeg6SRZTY
+
+Class 10th ICSE | Tokens- Literals (character, string, boolean, null) in JAVA | Chapter 3 | Part 5
+https://youtu.be/yNZ_nuUTnVQ
+
+Class 10th ICSE | Tokens(Punctuators, Operators, Escape Sequence) in JAVA | Chapter 3 | Part 6
+https://youtu.be/cHO1HIexwVc
+
+Class 10th ICSE | Data Types in JAVA | Chapter 3 | Part 7.1
+https://youtu.be/CmUQEfaC06I
+
+Class 10th ICSE | Data Types, Variable Initialization, Default Values in JAVA | Chapter 3 | Part 7.2
+https://youtu.be/23t_mA6Z0AQ
+
+==============================================================================================================
+
+Class 10th ICSE | Operators In Java in JAVA | Chapter 4 | Part 1
+https://youtu.be/oGzuCipvScY
+
+Class 10th ICSE | Relational Operators in JAVA | Chapter 4 | Part 2
+https://youtu.be/9l_uIiIE7Fs
+
+Class 10th ICSE | Assignment Operator | Shorthand Assignment Operators in JAVA | Chapter 4 | Part 3
+https://youtu.be/0DD2HGoyYYo
+
+Class 10th ICSE | Increment & Decrement Operators in JAVA | Chapter 4 | Part 4
+https://youtu.be/0-q5D-YJWYs
+
+Class 10th ICSE | Conditional Operator in JAVA | Chapter 4 | Part 5
+https://youtu.be/qwU8k1RRlzc
+
+Class 10th ICSE | new Operator in JAVA | Chapter 4 | Part 6.1
+https://youtu.be/wccSOxKFn_M
+
+Class 10th ICSE | New and Dot Operator in JAVA | Chapter 4 | Part 6.2
+https://youtu.be/US0XHbmHTQ8
+
+==============================================================================================================
+
+Class 10th ICSE | Functions in JAVA | Chapter 5 | Part 1
+https://youtu.be/f9nk42fNNvQ
+
+Class 10th ICSE | Actual And Formal Parameters in JAVA | Chapter 5 | Part 2
+https://youtu.be/KQH5K5gwM1Y
+
+Class 10th ICSE | Pass by value in JAVA | Chapter 5 | Part 3
+https://youtu.be/0G8VXOsNLbM
+
+Class 10th ICSE | Pass By Reference in JAVA | Chapter 5 | Part 4
+https://youtu.be/nB2VqGpfjtI
+
+Class 10th ICSE | Pure Method in JAVA | Chapter 5 | Part 5
+https://youtu.be/vQIKMFXCXHc
+
+Class 10th ICSE | Impure Methods in JAVA | Chapter 5 | Part 6
+https://youtu.be/nMBJ63OVI3w
+
+Class 10th ICSE | Static and Non Static Methods in JAVA | Chapter 5 | Part 7
+https://youtu.be/mDto-UhRTtU
+
+Class 10th ICSE | Function Overloading in JAVA | Chapter 5 | Part 8
+https://youtu.be/REFDvM6Tgh0
+
+==============================================================================================================
