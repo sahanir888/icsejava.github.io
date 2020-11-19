@@ -5,12 +5,12 @@
   }
 
   .card{
-    
+    display: inline-block;
     
   }
 
   .col{    
-    text-align:center
+    text-align:center;
   }
   
 
