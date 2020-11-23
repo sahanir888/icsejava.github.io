@@ -20,5 +20,9 @@
   .even-larger-badge {
     font-size: 3.2em;
     padding-left: 0em;
-}
+  }
+
+  .card-header{
+    background-color: violet;
+  }
   /*-------------------------------------------------------------------*/
